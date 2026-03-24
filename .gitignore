@@ -38,3 +38,11 @@ work/
 # Backups
 *_backup.py
 scripts/*_backup.py
+
+# Reports (process documentation)
+*_REPORT.md
+GITHUB_*.md
+STANDARD_*.md
+GIT_*.md
+FINAL_*.md
+UPDATE_*.md
