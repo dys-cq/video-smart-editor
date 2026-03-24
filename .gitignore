@@ -37,3 +37,4 @@ work/
 
 # Backups
 *_backup.py
+scripts/*_backup.py

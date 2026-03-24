@@ -38,7 +38,7 @@ E:\video_input\日报助手.mov
 
 ```bash
 cd C:\Users\Administrator\.openclaw\workspace\skills\video_smart_editor
-uv run python video_editor.py
+uv run python scripts/video_editor.py
 ```
 
 ### 步骤 3: 查看输出

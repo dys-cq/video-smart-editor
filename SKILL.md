@@ -37,7 +37,7 @@ metadata: { "openclaw": { "emoji": "🎬", "requires": { "bins": ["ffmpeg", "ffp
 
 ```bash
 cd C:\Users\Administrator\.openclaw\workspace\skills\video_smart_editor
-uv run python video_editor.py
+uv run python scripts/video_editor.py
 ```
 
 ### 配置说明
